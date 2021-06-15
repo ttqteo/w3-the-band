@@ -1,6 +1,6 @@
 # w3-the-band
 
-This is my first web developer using CSS and HTML.
+Web developer using CSS and HTML and Javascript
 
 Guide by fullstack.com.vn
 
